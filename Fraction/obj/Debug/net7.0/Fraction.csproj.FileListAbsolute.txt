@@ -1,0 +1,15 @@
+D:\works\C#\Fraction\Fraction\Fraction\bin\Debug\net7.0\Fraction.exe
+D:\works\C#\Fraction\Fraction\Fraction\bin\Debug\net7.0\Fraction.deps.json
+D:\works\C#\Fraction\Fraction\Fraction\bin\Debug\net7.0\Fraction.runtimeconfig.json
+D:\works\C#\Fraction\Fraction\Fraction\bin\Debug\net7.0\Fraction.dll
+D:\works\C#\Fraction\Fraction\Fraction\bin\Debug\net7.0\Fraction.pdb
+D:\works\C#\Fraction\Fraction\Fraction\obj\Debug\net7.0\Fraction.csproj.AssemblyReference.cache
+D:\works\C#\Fraction\Fraction\Fraction\obj\Debug\net7.0\Fraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\C#\Fraction\Fraction\Fraction\obj\Debug\net7.0\Fraction.AssemblyInfoInputs.cache
+D:\works\C#\Fraction\Fraction\Fraction\obj\Debug\net7.0\Fraction.AssemblyInfo.cs
+D:\works\C#\Fraction\Fraction\Fraction\obj\Debug\net7.0\Fraction.csproj.CoreCompileInputs.cache
+D:\works\C#\Fraction\Fraction\Fraction\obj\Debug\net7.0\Fraction.dll
+D:\works\C#\Fraction\Fraction\Fraction\obj\Debug\net7.0\refint\Fraction.dll
+D:\works\C#\Fraction\Fraction\Fraction\obj\Debug\net7.0\Fraction.pdb
+D:\works\C#\Fraction\Fraction\Fraction\obj\Debug\net7.0\Fraction.genruntimeconfig.cache
+D:\works\C#\Fraction\Fraction\Fraction\obj\Debug\net7.0\ref\Fraction.dll
